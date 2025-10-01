@@ -16,3 +16,8 @@ Use an online Swift runner. Paste **all four files** into one editor pane in thi
 Then click **Run** and copy your output below.
 
 ## Sample Output
+```
+City: Chicago
+Temp: 20.0℃
+Summary: Clear Sky
+```
